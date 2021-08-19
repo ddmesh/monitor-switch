@@ -37,14 +37,11 @@ OUTPUT in --enable and --select can be either an output name, as given by --list
 or the number of its position on the list, 1 being the first output.
 
 The left-to-right order of monitors can be specified in the configuration file:
-/home/<user>/.config/monitor-switch.sh.conf
+/home/user/.config/monitor-switch.sh.conf
 
 Copyright (C) 2012 Rodrigo Silva (MestreLion) <linux@rodrigosilva.com>
 License: GPLv3 or later. See <http://www.gnu.org/licenses/gpl.html>
 </pre>
 
-**Changelog**:
-- rename short options to remove doubles
-- add version to script
 
 
