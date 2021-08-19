@@ -1,7 +1,7 @@
 # monitor-switch
 
 Forked from: from https://github.com/MestreLion/scripts<br/>
-Licence:  GPLv3 or later. See <http://www.gnu.org/licenses/gpl.html><br/>
+Licence: GPL-3.0-or-later / GPLv3 or later. See <http://www.gnu.org/licenses/gpl.html><br/>
 Copyright (C) 2012 Rodrigo Silva (MestreLion) <linux@rodrigosilva.com><br/>
 
 Switch monitors using xrandr.
