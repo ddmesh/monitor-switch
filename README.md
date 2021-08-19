@@ -1,8 +1,8 @@
-# monitor-switch
+# monitor-switch (modified version)
 
 Forked from: from https://github.com/MestreLion/scripts<br/>
 Licence: GPL-3.0-or-later / GPLv3 or later. See <https://enterprise.dejacode.com/licenses/public/gcc-exception-3.1/><br/>
-Copyright (C) 2012 Rodrigo Silva (MestreLion) <linux@rodrigosilva.com><br/>
+Copyright (C) 2012 Rodrigo Silva (MestreLion) linux@rodrigosilva.com<br/>
 
 Switch monitors using xrandr.
 
@@ -38,9 +38,6 @@ or the number of its position on the list, 1 being the first output.
 
 The left-to-right order of monitors can be specified in the configuration file:
 /home/user/.config/monitor-switch.sh.conf
-
-Copyright (C) 2012 Rodrigo Silva (MestreLion) <linux@rodrigosilva.com>
-License: GPLv3 or later. See <http://www.gnu.org/licenses/gpl.html>
 </pre>
 
 
