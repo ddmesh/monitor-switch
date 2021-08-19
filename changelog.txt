@@ -1,0 +1,5 @@
+2021-08
+-------
+- rename short options to remove doubles
+- add version to script
+- fix license 
